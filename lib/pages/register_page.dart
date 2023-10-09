@@ -48,7 +48,7 @@ class Registerpage extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Text(
-                      "Scholar APP",
+                      "Chat APP",
                       style: TextStyle(
                           fontSize: 32,
                           fontWeight: FontWeight.bold,
